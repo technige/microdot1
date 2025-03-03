@@ -1,7 +1,6 @@
 from uuid import UUID
 
-from microdot import Microdot
-from microdot.microdot import URLPattern
+from microdot import Microdot, URLPattern
 
 from microdot1.sub import sub_app
 
